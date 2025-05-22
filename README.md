@@ -16,7 +16,7 @@ This project sets up a Jenkins server integrated with AWS S3 to reduce operation
 
 ## 🧱 Architecture
 
-![Architecture]![image](https://github.com/user-attachments/assets/efa8c166-a7d5-4ac0-b749-7c7de10285b9)
+ ![image](https://github.com/user-attachments/assets/efa8c166-a7d5-4ac0-b749-7c7de10285b9)
 
 **Flow:**
 1. Jenkins server hosts CI/CD jobs
